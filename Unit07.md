@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation’s “PSYCH302A Final Exam”**
     Link: The Saylor Foundation’s [“PSYCH302A Final

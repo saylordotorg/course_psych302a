@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The End of Life: Death and Grieving** <span id="6"></span> 
 *A course on lifespan development would be incomplete without
 considering how humans perceive and cope with the end of life.* *Reflect

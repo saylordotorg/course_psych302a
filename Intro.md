@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH302A: Lifespan Development"
 -----------------------------------------------------
 

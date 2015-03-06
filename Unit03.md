@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Child Development** <span id="3"></span> 
 *While the development process is unique to every individual, there are
 certain milestones that children reach in the course of normal

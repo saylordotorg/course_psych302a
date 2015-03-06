@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Adolescent Development** <span id="4"></span> 
 *Child development and adolescent development are not necessarily
 distinct from one another; many of the processes that begin to take

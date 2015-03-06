@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Foundations of Development** <span id="2"></span> 
 *This unit will focus on the biological foundations of life and the very
 first stage of human development: prenatal development, which takes

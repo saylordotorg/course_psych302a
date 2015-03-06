@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Adult Development** <span id="5"></span> 
 *In the previous unit, we talked about how we develop as adolescents.
 This unit will look at the development that takes place during true

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH302A: Lifespan Development"
+course_description: "An examination of the changes (psychological and otherwise) that occur as a result of our physical and mental maturation."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Lifespan Development** <span id="1"></span> 
 *In order to help you build a firm base from which to explore the
 details of developmental processes, milestones, and stages, this unit
