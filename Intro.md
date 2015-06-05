@@ -196,3 +196,13 @@ subunit 1.1 (a total of 2 hours) on Tuesday night, half of subunit 1.2
  **Tips/Suggestions:** It may be helpful to take notes on the resources
 in each unit. These notes will be a useful study tool as you begin to
 prepare for your final exam.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/psych302a/Unit01/)
+- [Unit 2](https://legacy.saylor.org/psych302a/Unit02/)
+- [Unit 3](https://legacy.saylor.org/psych302a/Unit03/)
+- [Unit 4](https://legacy.saylor.org/psych302a/Unit04/)
+- [Unit 5](https://legacy.saylor.org/psych302a/Unit05/)
+- [Unit 6](https://legacy.saylor.org/psych302a/Unit06/)
+- [Unit 7](https://legacy.saylor.org/psych302a/Unit07/)
