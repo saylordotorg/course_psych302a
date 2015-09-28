@@ -216,3 +216,4 @@ prepare for your final exam.
 - [Unit 5](https://legacy.saylor.org/psych302a/Unit05/)
 - [Unit 6](https://legacy.saylor.org/psych302a/Unit06/)
 - [Unit 7](https://legacy.saylor.org/psych302a/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH302A/PSYCH302A-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH302A/PSYCH302A-FinalExam-Answers.html)
