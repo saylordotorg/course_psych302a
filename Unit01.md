@@ -107,7 +107,7 @@ id="1.1.4.1"></span> 
 id="1.1.4.2"></span> 
 -   **Reading: Introduction to Psychology: “Personality”**
     Link: *Introduction to Psychology*:
-    [“Personality”](http://www.saylor.org/site/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
+    [“Personality”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
       
      Instructions: After clicking on the link above, read the material
     in the gray box entitled “Identical Twins Reunited After 35 Years.”
@@ -146,7 +146,7 @@ id="1.1.4.2"></span> 
 id="1.2.2"></span> 
 -   **Reading: Wikipedia’s “Ecological Systems Theory”**
     Link: Wikipedia’s [“Ecological Systems
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Ecological-systems-theory_12.5.12.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Ecological-systems-theory_12.5.12.pdf) (PDF)  
       
      Instructions: After clicking on the link above, you will be taken
     to a webpage describing Ecological Systems Theory, which was
@@ -171,7 +171,7 @@ id="1.2.2"></span> 
 **1.3 An Overarching Lifespan Perspective** <span id="1.3"></span> 
 -   **Reading: Wikipedia’s “Paul Baltes”**
     Link: Wikipedia’s [“Paul
-    Baltes”](http://www.saylor.org/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Paul-Baltes_12.5.12.pdf)** **(PDF)  
+    Baltes”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Paul-Baltes_12.5.12.pdf)** **(PDF)  
       
      Instructions: Click on the link above and read the webpage in its
     entirety. While developmental psychologists work from many of the
@@ -272,7 +272,7 @@ subunit 1.1.4.*
     or More Nurture? Behavioral and Molecular Genetics”**
     Link: [“Is Personality More Nature or More Nurture? Behavioral and
     Molecular
-    Genetics”](http://www.saylor.org/site/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
+    Genetics”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
       
      Instructions: As indicated earlier in this unit, in the study of
     the nature-nurture debate, developmental psychologists are highly

@@ -181,7 +181,7 @@ experience when facing death.*
     Retiring, and Bereavement”**
     Link: *Introduction to Psychology*: [“Late Adulthood; Aging,
     Retiring, and
-    Bereavement”](http://www.saylor.org/site/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
+    Bereavement”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
       
      Instructions: While Kübler-Ross’s work was groundbreaking, it has
     been subject to serious criticisms in the decades since her theory
