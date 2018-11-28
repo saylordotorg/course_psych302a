@@ -103,7 +103,7 @@ the onset of puberty.*
 id="4.1.5.1"></span> 
 -   **Reading: Wikipedia: “Puberty”**
     Link: Wikipedia:
-    [“Puberty”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Puberty_12.10.12.pdf) (PDF)  
+    [“Puberty”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Puberty_12.10.12.pdf) (PDF)  
       
      Instructions: Read all parts of section 5 of the article
     (“Variations”), which includes information on historical shifts
@@ -130,7 +130,7 @@ id="4.1.5.1"></span> 
     Randall Phelps’s [“Precocious
     Puberty”](http://www.med.umich.edu/yourchild/topics/puberty.htm) (HTML)
     and Wikipedia: [“Delayed
-    Puberty”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Delayed-puberty_12.10.12.pdf) (PDF)  
+    Puberty”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Delayed-puberty_12.10.12.pdf) (PDF)  
         
      Instructions: Click on the links above, and read the webpages in
     their entirety for an understanding of the etiology, symptoms, and
@@ -284,9 +284,9 @@ id="4.3"></span> 
 id="4.3.1"></span> 
 -   **Reading: Wikipedia: “Egocentrism” and “Personal Fable”**
     Link: Wikipedia:
-    [“Egocentrism”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Egocentrism_12.10.12.pdf) and
+    [“Egocentrism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Egocentrism_12.10.12.pdf) and
     [“Personal
-    Fable”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Personal-fable_12.10.12.pdf) (PDF)  
+    Fable”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Personal-fable_12.10.12.pdf) (PDF)  
         
      Instructions: Click on the first link above, then scroll down to
     and read the section “In Adolescence” for an overview of egocentrism
@@ -311,9 +311,9 @@ id="4.3.2"></span> 
 -   **Reading: Wikipedia: “Erikson’s Stages of Psychosocial
     Development”**
     Link: Wikipedia: [“Erik
-    Erikson”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Erik-Erikson_12.10.12.pdf) and
+    Erikson”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Erik-Erikson_12.10.12.pdf) and
     [“Erikson’s Stages of Psychosocial
-    Development”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Eriksons-stages-of-psychosocial-development_12.10.12.pdf) (PDF)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Eriksons-stages-of-psychosocial-development_12.10.12.pdf) (PDF)  
       
      Instructions: Review the above reading from subunit 3.3.3, focusing
     on the adolescent stage of identity versus role confusion. This is
@@ -336,7 +336,7 @@ id="4.3.2.2"></span> 
 -   **Reading: Introduction to Psychology: “Adolescence: Developing
     Independence and Identity”**
     Link: [“Adolescence: Developing Independence and
-    Identity”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
+    Identity”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Introduction%20to%20Psychology.pdf) (PDF)  
       
      Instructions: Click on the link above, and scroll down to the
     section titled, “Social Development in Adolescence.” Read this
@@ -494,7 +494,7 @@ id="4.3.4.6"></span> 
     Education: “My Child’s Academic Success: Communication – Helping
     Your Child Through Early Adolescence”**
     Link: Wikipedia:
-    [“Adolescence”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Adolescence_12.10.12.pdf) (PDF)
+    [“Adolescence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Adolescence_12.10.12.pdf) (PDF)
     and ED.gov U.S. Department of Education: [“My Child’s Academic
     Success: Communication – Helping Your Child Through Early
     Adolescence”](http://www2.ed.gov/parents/academic/help/adolescence/part6.html) (HTML)  

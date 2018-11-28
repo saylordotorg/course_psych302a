@@ -105,7 +105,7 @@ id="2.2"></span> 
 id="2.2.1"></span> 
 -   **Reading: Wikipedia’s “Gene-Environment Interaction”**
     Link: Wikipedia’s [“Gene-Environment
-    Interaction”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Gene-environment-interaction_12.7.12.pdf) (PDF)  
+    Interaction”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Gene-environment-interaction_12.7.12.pdf) (PDF)  
         
      Instructions: In recent years, the nature versus nurture debate in
     developmental psychology has given way to a general acknowledgment
@@ -156,7 +156,7 @@ id="2.2.3.1"></span> 
 -   **Reading: Introduction to Psychology: “Conception and Prenatal
     Development”**
     Link: *Introduction to Psychology*: [“Conception and Prenatal
-    Development”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
         
      Instructions: After clicking on the link above, scroll down to and
     read the section entitled “How the Environment Can Affect the

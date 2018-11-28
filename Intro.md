@@ -114,7 +114,7 @@ documents (.doc, .ppt, .xls, etc.);</span>
  <span dir="LTR">√    be competent in the English language;</span>  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  <span dir="LTR">√    have completed the</span>following course from
@@ -155,7 +155,7 @@ following materials:
     [“Piaget Part
     2”](http://deimos3.apple.com/WebObjects/Core.woa/Browse/umbc.edu.1315462975?i=1792401750)
 -   Reading: [“Introduction to
-    Psychology”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf)
+    Psychology”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Introduction%20to%20Psychology.pdf)
 -   Reading: OpenStax College’s [“Why Socialization
     Matters”](http://cnx.org/content/m42821/latest/), “[Challenges
     Facing the
