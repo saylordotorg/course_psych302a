@@ -703,7 +703,7 @@ id="3.2.8.2.8"></span> 
     The Development and Use of Language”**
     Link: *Introduction to Psychology*: [“Communicating with Others: The
     Development and Use of
-    Language”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
+    Language”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
       
      Instructions: As more and more children are exposed to multiple
     languages from their earliest years, many are asking questions about
@@ -922,9 +922,9 @@ id="3.3.3"></span> 
 -   **Reading: Wikipedia: “Erik Erikson” and “Erikson’s Stages of
     Psychosocial Development”**
     Link: Wikipedia: [“Erik
-    Erikson”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Erik-Erikson_12.10.12.pdf) and
+    Erikson”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Erik-Erikson_12.10.12.pdf) and
     [“Erikson’s Stages of Psychosocial
-    Development”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Eriksons-stages-of-psychosocial-development_12.10.12.pdf) (PDF)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Eriksons-stages-of-psychosocial-development_12.10.12.pdf) (PDF)  
       
      Instructions: First, for an introduction to this key theorist,
     click on the “Erik Erikson” link above, and read all sections of the
@@ -1013,7 +1013,7 @@ within a social context and not in a vacuum.*
 **3.3.4 Object Relations Theory** <span id="3.3.4"></span> 
 -   **Reading: Wikipedia: “Object Relations Theory”**
     Link: Wikipedia: [“Object Relations
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Object-relations-theory_12.10.12.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Object-relations-theory_12.10.12.pdf) (PDF)  
         
      Instructions: Read the entire webpage for an overview of the
     theory. Note that this reading also covers the material you need to
@@ -1036,7 +1036,7 @@ her theory.*
 **3.3.4.2 Margaret Mahler** <span id="3.3.4.2"></span> 
 -   **Reading: Wikipedia: “Margaret Mahler”**
     Link: Wikipedia: [“Margaret
-    Mahler”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Margaret-Mahler_12.10.12.pdf) (PDF)  
+    Mahler”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Margaret-Mahler_12.10.12.pdf) (PDF)  
       
      Instructions: Read this webpage in its entirety for a description
     of another prominent object relations theorist and her theory of

@@ -67,7 +67,7 @@ Upon successful completion of this unit, the student will be able to:
     Building Effective Lives”**
     Link: *Introduction to Psychology*: [“Early and Middle Adulthood:
     Building Effective
-    Lives”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
+    Lives”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
       
      Instructions: After clicking on the link above, read the two
     opening paragraphs under the Learning Objective box. Then (skipping
@@ -206,7 +206,7 @@ and Abuse,” in the reading, “Challenges Facing the Elderly.”*
     Retiring, and Bereavement”**
     Link: *Introduction to Psychology*: [“Late Adulthood: Aging,
     Retiring, and
-    Bereavement”](https://resources.saylor.org/archived/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
+    Bereavement”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Introduction%20to%20Psychology.pdf) (HTML)  
       
      Instructions: Stereotyped views of aging portray memory loss as one
     of the hallmarks of growing older. How unfair are such depictions
@@ -252,7 +252,7 @@ id="5.3"></span> 
 -   **Reading: Wikipedia: “Erikson’s Stages of Psychosocial
     Development”**
     Link: Wikipedia: [“Erikson’s Stages of Psychosocial
-    Development”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Eriksons-stages-of-psychosocial-development_12.10.12.pdf) (PDF)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Eriksons-stages-of-psychosocial-development_12.10.12.pdf) (PDF)  
       
      Instructions: Review the reading from subunit 3.3.3 for an overview
     of all of Erikson’s stages, focusing especially on the last three
@@ -323,7 +323,7 @@ around their careers.*
 **5.3.2.4 Midlife Crises** <span id="5.3.2.4"></span> 
 -   **Reading: Wikipedia: “Midlife Crisis”**
     Link: Wikipedia: [“Midlife
-    Crisis](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Midlife-crisis_12.10.12.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Midlife-crisis_12.10.12.pdf)
+    Crisis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Midlife-crisis_12.10.12.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PSYCH302a_Wikipedia_Midlife-crisis_12.10.12.pdf)
     (PDF)  
       
      Instructions: While Daniel Levinson’s research on life stages
